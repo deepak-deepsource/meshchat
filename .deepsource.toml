@@ -1,16 +1,4 @@
 version = 1
 
 [[analyzers]]
-name = "sql"
-enabled = true
-
-[[analyzers]]
-name = "java"
-enabled = true
-
-  [analyzers.meta]
-  runtime_version = "17"
-
-[[analyzers]]
 name = "cxx"
-enabled = true
